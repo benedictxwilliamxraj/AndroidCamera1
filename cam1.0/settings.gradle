@@ -1,0 +1,3 @@
+include ':AVlib2.0.0'
+include ':app'
+rootProject.name = "cam1.0"
